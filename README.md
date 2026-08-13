@@ -106,4 +106,7 @@ Herakleez brings together your **workouts, strength, weight, BMI, and muscle pro
 
 ---
 
+<img width="1080" height="2340" alt="Screenshot_20260813_103636_herakleez" src="https://github.com/user-attachments/assets/77be9dd9-0cc6-40e2-9abd-e417b18d73dd" />
+
+
 **Herakleez — Track your workouts. Track your progress. Build yourself. 💪**
