@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">herakleez</string>
+    <string name="title_activity_main">herakleez</string>
+    <string name="package_name">com.herakleez.app</string>
+    <string name="custom_url_scheme">com.herakleez.app</string>
+</resources>

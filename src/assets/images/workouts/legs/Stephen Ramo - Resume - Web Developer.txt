@@ -1,0 +1,193 @@
+Stephen Ramo
+Web Developer
+
+Iligan City, Northern Mindanao
+9051722053
+
+Hardworking and passionate job seeker with strong organizational skills
+eager to secure Full Stack Web Developer position. Ready to help team
+achieve company goals.
+
+
+PERSONAL INFORMATION
+  Address: , Iligan City, Northern Mindanao, 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SKILLS
+  PHP
+  HTML
+  JavaScript
+  CSS
+  Bootstrap
+  jQuery
+  VueJs
+  Express
+  Node.js
+  React.js
+  CodeIgniter
+  Laravel
+
+WORK EXPERIENCE
+  * August 2022 – 2026
+    Senior Web Developer at Your Mortgage Decision / Eadon & Co ltd, 
+      
+  Designed and developed user-friendly interfaces
+
+that streamlined management processes and improved usability.
+
+  Analyzed and updated existing software to adapt
+
+to evolving customer requirements and industry trends.. Spearheaded the development of a CRM system utilizing PHP, MySQL, and the CodeIgniter framework.
+
+  Managed back-end development using PHP and
+
+CodeIgniter, ensuring website functionality, stability, and security.
+
+  * June 2018 – August 2022
+    Senior Web Developer at TD Software Services, 
+      
+  Developed a CRM project as a Full Stack Developer,
+
+utilizing PHP, MySQL, and the CodeIgniter framework.
+
+  * April 2016 – January 2018
+    Web Developer at Onlinejobsph, 
+      
+  Coded websites using HTML, CSS, JavaScript,
+
+jQuery, ReactJS, mongoDB, NodeJS, ExpressJS, NextJS
+
+  CMS Project using Wordpress
+
+
+  PHP Frameworks using Opencart, Codeigniter,
+
+Laravel
+
+  * October 2014 – March 2016
+    IT Specialist at St Michael's College, Iligan City
+      
+  Configured hardware, devices and software to set
+
+
+  Provided Tier 1 IT support to non-technical internal
+
+users through desk side support services.
+
+  Resolved diverse range of technical issues across
+
+multiple systems and applications for customers and end-users across various time zones.
+
+  Assigned in developing/maintaining website
+
+
+
+EDUCATION
+  * 2009 – 2014
+    St. Michael's College Iligan City, Iligan City Bachelor of Science Information Technology
+  * 2006 – 2009
+    Sto. Niño Academy de Iligan, Iligan City Secondary School
+  * 2002 – 2006
+    Iligan City Central School, Iligan City Primary School
+
+SEMINARS AND TRAINING ATTENDED
+  * Application Testing Techniques and Strategies, St. Michael’s College NSL, Nursing Builing., January 2013
+  * Internet, Cloud storage, St. Michael’s College Conference Hall, Assumption Building., February 2013
+  * Intelligent Machine Vision for Automated Fence Intruder Detection Using Self-Organizing Map, St. Michael’s College Conference Hall, Assumption Building., December 2013
+  * Online Training on Back End Web Development 101 – Node.js (With Self Mastery and Employment Sprint Course), Online, September 2022 – October 2022
+
+    Certificate Url: https://drive.google.com/file/d/1TIjahin7Hl7D-zChRbQM7Utv1QMX9xjR/view?usp=share_link
+  * Online Training MERN Stack Course, Online, October 2022
+
+    Certificate Url: https://www.udemy.com/certificate/UC-23915f33-a951-4bdc-aa6f-9de1127a66eb/
+PROJECT HISTORY
+  * AIRBNB “Like”, , October 2022
+
+    an AIRBNB “Like” project submitted to Bayan Academy Online Training Course - Created from scratch using NodeJS, ExpressJS and Mongoose (MongoDB) for database.
+  * Calculator, , November 2022
+
+    a Basic Calculator - Created from scratch using Vite + ReactJS.
+  * Student Sign IN/OUT on any school events in SMC, , July 2014
+
+    In charge of student’s sign in/out on any events.
+  * OLNINE SHOP - Ecommerce, , December 2022
+
+    Created from scratch using MERN STACK (CRUD) an ecommerce website.
+  * Places, , November 2022
+
+    Created from scratch using MERN STACK (CRUD) where you can upload/share your favorite places, created during the Udemy Training.
+  * Project Management, , November 2022
+
+    Created from scratch using MERN STACK (CRUD) where you can upload/share/sell softwares, a personal project.
+  * CSG and College Council Election for SMC, , January 2016
+
+    In charge in designing and maintaining web layout for client and currently Admin.
+  * Student Online Directory SMC, , September 2015
+
+    In charge in designing and maintaining web layout for client and currently Admin.
+  * Chat App, , February 2023
+
+    a Messaging App - Created from scratch using MERN Stack with Socket.io.
+  * Basic Education Dept. Registration for ID SMC, , November 2014
+
+    In charge in designing and maintaining web layout for client and currently Admin.
+  * Mary Infant Jesus School Payment System, , April 2016
+
+    Web App local server only.
+  * Mary Infant Jesus School Grading System, , June 2016
+
+    Web App local server only.
+  * Life after purchase website, , August 2016
+
+    In charge in some part of the backend side of the website PHP/Javascript/MySQL.
+  * Custom planet website, , October 2016
+
+    In charge in some part of the backend side of the website (Combining/Linking smartadmin theme, opencart and tshirtecommerce).
+  * Nativebox website, , December 2016
+
+    In charge of both design and backend an opencart platform (Fullstack).
+  * SMC Iligan New website, , January 2016
+
+    In charge in designing and maintaining web layout for client and currently Admin.
+  * Alumni Tracer Study, , August 2014
+
+    In charge in designing and maintaining web layout for client and currently Admin.
+  * Alumni website, , September 2014
+
+    In charge in designing and maintaining web layout for client and currently Admin.
+  * Vision Scapes website, , June 2017
+
+    In charge of both design and backend a wordpress website.
+  * Renaistupart website, , August 2017
+
+    In charge of both design and backend a wordpress website with woocommerce plugin.
+  * TD Software Services, , August 2018 – August 2022
+
+    SENIOR DEV. In charge of both design and backend on a CRM Web App using PHP Framework CODEIGNITER.
+  * Your Mortgage Decisions (CIMOS), , August 2022 – August 2025
+
+    SENIOR DEV. In charge of both design and backend on a CRM Web App using PHP Framework CODEIGNITER.
+  * Car Loan Payment Tracker (Personal Project), , December 2025
+
+    Created from scratch using Larvavel, Vuejs, TailwindCSS and Inertia JS, with PWA for mobile app version.
+  * POS Web App (Personal Project), , December 2025
+
+    Created from scratch using Larvavel, Vuejs, TailwindCSS and Inertia JS.
+  * Budget Tracker Mobile App (Personal Project), , December 2025
+
+    Created from scratch using Vuejs, TailwindCSS and Capacitor JS.
+  * Car Loan Payment Tracker Mobile App (Personal Project), , December 2025
+
+    Created from scratch using Vuejs, TailwindCSS and Capacitor JS.
+COMPETENCIES
+  * Web development projects, , 
+  * Programming, , 
+  * HTML, , 
+  * CSS, , 
+  * Javascript, , 
+  * PHP, , 
+  * CMS, , 
+  * MERN Stack, , 
+  * CRM, , 
